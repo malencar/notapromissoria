@@ -1,0 +1,10 @@
+#include "QRACONST.PAS"
+
+STRINGTABLE
+
+{
+
+  STTAlertMessage, "Font selected is not a TrueType Font and can't be rotated"
+  STTAbortMessage, "Font selected is not a TrueType Font. '%s' was assigned"
+
+}
